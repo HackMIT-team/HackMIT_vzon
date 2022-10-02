@@ -1,6 +1,6 @@
 ## HackMIT_vzon
 
-   V-ZON is a technological framework that encompasses within it the power to autonomously navigate in 3D space, perform robust object detection in real time, and help      detect obstructions and obstacles along the way, all while allowing speech powered I/O.
+   V-ZON is a technological framework that encompasses within it the power to autonomously navigate in 3D space, perform robust object detection in real-time, and help      detect obstructions and obstacles along the way, all while allowing speech powered I/O.
 
 
 
