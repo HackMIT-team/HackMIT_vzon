@@ -20,7 +20,5 @@
       
   # How it works
     
-   V-ZON is a tech framework that houses the technologies required for building solutions involving first person autonomous localization and mapping.
-    -The main implementation of V-ZON is to improve accessibilty for the visually impaired.
-    -This framework, can also be used to integrate real world exploration with the METAverse in a safe and concise manner, using edge and object detection. 
+   V-ZON is a tech framework that houses the technologies required for building solutions involving first-person autonomous localization and mapping. -The main implementation of V-ZON is to improve accessibility for the visually impaired. -This framework, can also be used to integrate real-world exploration with the METAverse safely and concisely, using edge and object detection
       
